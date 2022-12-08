@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samsolo-droid
 - 👀 I’m interested in Web Development and Mobile Development
-- 🌱 I’m currently learning Event Driven Administration Pattern with Microservices
-- 💞️ I’m looking to collaborate on Whatsapp Desktop project
+- 🌱 I’m currently mastering Event Driven Administration Pattern with Microservices
+- 💞️ I’m looking to collaborate on Whatsapp Desktop project, and any AI project
 - 📫 How to reach me
   https://www.linkedin.com/in/samson-akumani-41495a236/
 
